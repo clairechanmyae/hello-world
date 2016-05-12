@@ -1,2 +1,5 @@
 # hello-world
-my first repository 
+Hello Everyone,
+
+I'm Claire, newbie to blockchain and ethereum. Hope to lean more from u guys 
+Cheers***
